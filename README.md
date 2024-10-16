@@ -1,8 +1,6 @@
 #### Project-Name
 概要をここに記述。
 
-![sample](https://user-images.githubusercontent.com/13768156/74453792-410bb980-4ec6-11ea-817c-5dbbb2478a95.jpg)
-
 #### 🖥Dependency
   `requires "nim >= 1.4.8"`
 
